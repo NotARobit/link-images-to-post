@@ -10,7 +10,7 @@ Wraps images in a post with a link to that post.
 == Description ==
 Wraps images in a post with a link to that post on index and archive views. Will override any existing link for that image by default.
 
-You can tell the script to ignore an image by adding a class of "lipt-ignore" to the <img> tag.
+You can tell the script to ignore an image by adding a class of "litp-ignore" to the <img> tag.
 
 == Installation ==
 1. Download the latest zip file and extract the directory it contains.
